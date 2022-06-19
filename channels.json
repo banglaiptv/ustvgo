@@ -1,0 +1,602 @@
+[
+    {
+        "name": "ABC ",
+        "url": "https://ustvgo.tv/abc-live-streaming-free/",
+        "code": "ABC",
+        "m3u": "https://h5.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "ABC 7 New York",
+        "url": "https://ustvgo.tv/abc-7-new-york/",
+        "code": "ABCNY",
+        "m3u": "https://h5.ustvgo.la/ABCNY/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "ACC Network",
+        "url": "https://ustvgo.tv/acc-network/",
+        "code": "ACCN",
+        "m3u": "https://h5.ustvgo.la/ACCN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "AE ",
+        "url": "https://ustvgo.tv/ae-networks-live-streaming-free/",
+        "code": "AE",
+        "m3u": "https://h5.ustvgo.la/AE/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "AMC ",
+        "url": "https://ustvgo.tv/amc-live/",
+        "code": "AMC",
+        "m3u": "https://h5.ustvgo.la/AMC/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Animal ",
+        "url": "https://ustvgo.tv/animal-planet-live/",
+        "code": "Animal",
+        "m3u": "https://h5.ustvgo.la/Animal/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "BBCAmerica",
+        "url": "https://ustvgo.tv/bbc-america-live/",
+        "code": "BBCAmerica",
+        "m3u": "https://h5.ustvgo.la/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Big Ten Network",
+        "url": "https://ustvgo.tv/big-ten-network/",
+        "code": "BTN",
+        "m3u": "https://h5.ustvgo.la/BTN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "BET ",
+        "url": "https://ustvgo.tv/bet/",
+        "code": "BET",
+        "m3u": "https://h5.ustvgo.la/BET/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Boomerang ",
+        "url": "https://ustvgo.tv/boomerang/",
+        "code": "Boomerang",
+        "m3u": "https://h5.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Bravo ",
+        "url": "https://ustvgo.tv/bravo-channel-live-free/",
+        "code": "Bravo",
+        "m3u": "https://h5.ustvgo.la/Bravo/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "C-SPAN",
+        "url": "https://ustvgo.tv/c-span/",
+        "code": "CSPAN",
+        "m3u": "https://h5.ustvgo.la/CSPAN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "CBS ",
+        "url": "https://ustvgo.tv/cbs-live-streaming-free/",
+        "code": "CBS",
+        "m3u": "https://h5.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "CBS 2 New York",
+        "url": "https://ustvgo.tv/cbs-2-new-york/",
+        "code": "CBSNY",
+        "m3u": "https://h5.ustvgo.la/CBSNY/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "CBS Sports Network",
+        "url": "https://ustvgo.tv/cbs-sports-network/",
+        "code": "CBSSN",
+        "m3u": "https://h5.ustvgo.la/CBSSN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Cinemax",
+        "url": "https://ustvgo.tv/cinemax/",
+        "code": "Cinemax",
+        "m3u": "https://h5.ustvgo.la/Cinemax/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "CMT",
+        "url": "https://ustvgo.tv/cmt/",
+        "code": "CMT",
+        "m3u": "https://h5.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Cartoon Network",
+        "url": "https://ustvgo.tv/cartoon-network/",
+        "code": "CN",
+        "m3u": "https://h5.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "CNBC ",
+        "url": "https://ustvgo.tv/cnbc-live-streaming-free/",
+        "code": "CNBC",
+        "m3u": "https://h5.ustvgo.la/CNBC/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "CNN ",
+        "url": "https://ustvgo.tv/cnn-live-streaming-free/",
+        "code": "CNN",
+        "m3u": "https://h5.ustvgo.la/CNN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Comedy ",
+        "url": "https://ustvgo.tv/comedy-central-live-free/",
+        "code": "Comedy",
+        "m3u": "https://h5.ustvgo.la/Comedy/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "CW ",
+        "url": "https://ustvgo.tv/the-cw-live-streaming-free/",
+        "code": "CW",
+        "m3u": "https://h5.ustvgo.la/CW/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "CW 11 New York",
+        "url": "https://ustvgo.tv/the-cw-11-new-york/",
+        "code": "CWNY",
+        "m3u": "https://h5.ustvgo.la/CWNY/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Destination America",
+        "url": "https://ustvgo.tv/destination-america/",
+        "code": "DA",
+        "m3u": "https://h5.ustvgo.la/DA/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Discovery",
+        "url": "https://ustvgo.tv/discovery-channel-live/",
+        "code": "Discovery",
+        "m3u": "https://h5.ustvgo.la/Discovery/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Disney ",
+        "url": "https://ustvgo.tv/disney-channel-live-streaming-free/",
+        "code": "Disney",
+        "m3u": "https://h5.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "DisneyJr ",
+        "url": "https://ustvgo.tv/disneyjr/",
+        "code": "DisneyJr",
+        "m3u": "https://h5.ustvgo.la/DisneyJr/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "DisneyXD ",
+        "url": "https://ustvgo.tv/disneyxd/",
+        "code": "DisneyXD",
+        "m3u": "https://h5.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Do it yourself ( DIY ) ",
+        "url": "https://ustvgo.tv/diy/",
+        "code": "DIY",
+        "m3u": "https://h5.ustvgo.la/DIY/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "E!",
+        "url": "https://ustvgo.tv/eonline/",
+        "code": "E",
+        "m3u": "https://h5.ustvgo.la/E/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "ESPN ",
+        "url": "https://ustvgo.tv/espn-live/",
+        "code": "ESPN",
+        "m3u": "https://h5.ustvgo.la/ESPN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "ESPN2 ",
+        "url": "https://ustvgo.tv/espn2/",
+        "code": "ESPN2",
+        "m3u": "https://h5.ustvgo.la/ESPN2/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "ESPNU",
+        "url": "https://ustvgo.tv/espnu/",
+        "code": "ESPNU",
+        "m3u": "https://h5.ustvgo.la/ESPNU/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "ESPNews",
+        "url": "https://ustvgo.tv/espnews/",
+        "code": "ESPNews",
+        "m3u": "https://h5.ustvgo.la/ESPNews/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "FoodNetwork ",
+        "url": "https://ustvgo.tv/food-network-live-free/",
+        "code": "FoodNetwork",
+        "m3u": "https://h5.ustvgo.la/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "FOX ",
+        "url": "https://ustvgo.tv/fox-hd-live-streaming/",
+        "code": "FOX",
+        "m3u": "https://h5.ustvgo.la/FOX/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "FOX 5 New York",
+        "url": "https://ustvgo.tv/fox-5-new-york/",
+        "code": "FOXNY",
+        "m3u": "https://h5.ustvgo.la/FOXNY/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "FoxBusiness ",
+        "url": "https://ustvgo.tv/fox-business-live-streaming-free/",
+        "code": "FoxBusiness",
+        "m3u": "https://h5.ustvgo.la/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "FoxNews",
+        "url": "https://ustvgo.tv/fox-news-live-streaming-free/",
+        "code": "FoxNews",
+        "m3u": "https://h5.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Freeform ",
+        "url": "https://ustvgo.tv/freeform-channel-live-free/",
+        "code": "Freeform",
+        "m3u": "https://h5.ustvgo.la/Freeform/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Fox Sports 1 (FS1)",
+        "url": "https://ustvgo.tv/fox-sports-1/",
+        "code": "FS1",
+        "m3u": "https://h5.ustvgo.la/FS1/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Fox Sports 2 (FS2)",
+        "url": "https://ustvgo.tv/fox-sports-2/",
+        "code": "FS2",
+        "m3u": "https://h5.ustvgo.la/FS2/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "FX",
+        "url": "https://ustvgo.tv/fx-channel-live/",
+        "code": "FX",
+        "m3u": "https://h5.ustvgo.la/FX/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "FX Movie Channel ",
+        "url": "https://ustvgo.tv/fxm/",
+        "code": "FXMovie",
+        "m3u": "https://h5.ustvgo.la/FXMovie/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "FXX ",
+        "url": "https://ustvgo.tv/fxx/",
+        "code": "FXX",
+        "m3u": "https://h5.ustvgo.la/FXX/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Golf Channel  ",
+        "url": "https://ustvgo.tv/golf-channel-live-free/",
+        "code": "GOLF",
+        "m3u": "https://h5.ustvgo.la/GOLF/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Game Show Network ",
+        "url": "https://ustvgo.tv/gsn/",
+        "code": "GSN",
+        "m3u": "https://h5.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Hallmark Channel ",
+        "url": "https://ustvgo.tv/hallmark-channel-live-streaming-free/",
+        "code": "Hallmark",
+        "m3u": "https://h5.ustvgo.la/Hallmark/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "HBO ",
+        "url": "https://ustvgo.tv/hbo/",
+        "code": "HBO",
+        "m3u": "https://h5.ustvgo.la/HBO/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "HGTV ",
+        "url": "https://ustvgo.tv/hgtv-live-streaming-free/",
+        "code": "HGTV",
+        "m3u": "https://h5.ustvgo.la/HGTV/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "History",
+        "url": "https://ustvgo.tv/history-channel-live/",
+        "code": "History",
+        "m3u": "https://h5.ustvgo.la/History/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "HLN",
+        "url": "https://ustvgo.tv/hln/",
+        "code": "HLN",
+        "m3u": "https://h5.ustvgo.la/HLN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Hallmark Movies & Mysteries",
+        "url": "https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/",
+        "code": "HMM",
+        "m3u": "https://h5.ustvgo.la/HMM/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Investigation Discovery",
+        "url": "https://ustvgo.tv/investigation-discovery-live-streaming-free/",
+        "code": "ID",
+        "m3u": "https://h5.ustvgo.la/ID/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "ION (WPXN) New York",
+        "url": "https://ustvgo.tv/ion-wpxn-new-york/",
+        "code": "IONNY",
+        "m3u": "https://h5.ustvgo.la/IONNY/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Lifetime",
+        "url": "https://ustvgo.tv/lifetime-channel-live/",
+        "code": "Lifetime",
+        "m3u": "https://h5.ustvgo.la/Lifetime/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Lifetime Movie Network",
+        "url": "https://ustvgo.tv/lifetime-movies/",
+        "code": "LifetimeM",
+        "m3u": "https://h5.ustvgo.la/LifetimeM/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "MLB Network",
+        "url": "https://ustvgo.tv/mlb-network/",
+        "code": "MLB",
+        "m3u": "https://h5.ustvgo.la/MLB/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Motor Trend",
+        "url": "https://ustvgo.tv/motortrend/",
+        "code": "MotorTrend",
+        "m3u": "https://h5.ustvgo.la/MotorTrend/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "MSNBC",
+        "url": "https://ustvgo.tv/msnbc-live-streaming-free/",
+        "code": "MSNBC",
+        "m3u": "https://h5.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "MTV",
+        "url": "https://ustvgo.tv/mtv/",
+        "code": "MTV",
+        "m3u": "https://h5.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "National Geographic ",
+        "url": "https://ustvgo.tv/national-geographic-live/",
+        "code": "NatGEO",
+        "m3u": "https://h5.ustvgo.la/NatGEO/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Nat Geo Wild",
+        "url": "https://ustvgo.tv/nat-geo-wild-live/",
+        "code": "NatGEOWild",
+        "m3u": "https://h5.ustvgo.la/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "NBA TV",
+        "url": "https://ustvgo.tv/nba-tv/",
+        "code": "NBA",
+        "m3u": "https://h5.ustvgo.la/NBA/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "NBC ",
+        "url": "https://ustvgo.tv/nbc/",
+        "code": "NBC",
+        "m3u": "https://h5.ustvgo.la/NBC/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "NBC 4 New York",
+        "url": "https://ustvgo.tv/nbc-4-new-york/",
+        "code": "NBCNY",
+        "m3u": "https://h5.ustvgo.la/NBCNY/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "NBC Sports ( NBCSN )",
+        "url": "https://ustvgo.tv/nbc-sports/",
+        "code": "NBCSN",
+        "m3u": "https://h5.ustvgo.la/NBCSN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "NFL Network ",
+        "url": "https://ustvgo.tv/nfl-network-live-free/",
+        "code": "NFL",
+        "m3u": "https://h5.ustvgo.la/NFL/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "NFL RedZone",
+        "url": "https://ustvgo.tv/nfl-redzone/",
+        "code": "NFLRZ",
+        "m3u": "https://h5.ustvgo.la/NFLRZ/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Nickelodeon ",
+        "url": "https://ustvgo.tv/nickelodeon-live-streaming-free/",
+        "code": "Nickelodeon",
+        "m3u": "https://h5.ustvgo.la/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Nicktoons ",
+        "url": "https://ustvgo.tv/nicktoons/",
+        "code": "Nicktoons",
+        "m3u": "https://h5.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "One America News Network",
+        "url": "https://ustvgo.tv/one-america-news-network/",
+        "code": "OAN",
+        "m3u": "https://h5.ustvgo.la/OAN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Oprah Winfrey Network (OWN) ",
+        "url": "https://ustvgo.tv/own/",
+        "code": "OWN",
+        "m3u": "https://h5.ustvgo.la/OWN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Olympic Channel ",
+        "url": "https://ustvgo.tv/olympic-channel/",
+        "code": "OLY",
+        "m3u": "https://h5.ustvgo.la/OLY/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Oxygen ",
+        "url": "https://ustvgo.tv/oxygen/",
+        "code": "Oxygen",
+        "m3u": "https://h5.ustvgo.la/Oxygen/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Paramount ",
+        "url": "https://ustvgo.tv/paramount-network/",
+        "code": "Paramount",
+        "m3u": "https://h5.ustvgo.la/Paramount/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "PBS ",
+        "url": "https://ustvgo.tv/pbs-live/",
+        "code": "PBS",
+        "m3u": "https://h5.ustvgo.la/PBS/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "POP ",
+        "url": "https://ustvgo.tv/pop/",
+        "code": "POP",
+        "m3u": "https://h5.ustvgo.la/POP/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Science ",
+        "url": "https://ustvgo.tv/science/",
+        "code": "Science",
+        "m3u": "https://h5.ustvgo.la/Science/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "SEC Network",
+        "url": "https://ustvgo.tv/sec-network/",
+        "code": "SECN",
+        "m3u": "https://h5.ustvgo.la/SECN/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Showtime ",
+        "url": "https://ustvgo.tv/showtime/",
+        "code": "Showtime",
+        "m3u": "https://h5.ustvgo.la/Showtime/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "StarZ ",
+        "url": "https://ustvgo.tv/starz-channel-live/",
+        "code": "StarZ",
+        "m3u": "https://h5.ustvgo.la/StarZ/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "SundanceTV ",
+        "url": "https://ustvgo.tv/sundance-tv/",
+        "code": "SundanceTV",
+        "m3u": "https://h5.ustvgo.la/SundanceTV/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "SYFY ",
+        "url": "https://ustvgo.tv/syfy-channel-live/",
+        "code": "SYFY",
+        "m3u": "https://h5.ustvgo.la/SYFY/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "TBS ",
+        "url": "https://ustvgo.tv/tbs-channel-live-free/",
+        "code": "TBS",
+        "m3u": "https://h5.ustvgo.la/TBS/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Turner Classic Movies (TCM)",
+        "url": "https://ustvgo.tv/tcm/",
+        "code": "TCM",
+        "m3u": "https://h5.ustvgo.la/TCM/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Telemundo ",
+        "url": "https://ustvgo.tv/telemundo/",
+        "code": "Telemundo",
+        "m3u": "https://h5.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Tennis Channel ",
+        "url": "https://ustvgo.tv/tennis-channel-live-free/",
+        "code": "Tennis",
+        "m3u": "https://h5.ustvgo.la/Tennis/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "TLC ",
+        "url": "https://ustvgo.tv/tlc-live-free/",
+        "code": "TLC",
+        "m3u": "https://h5.ustvgo.la/TLC/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "TNT ",
+        "url": "https://ustvgo.tv/tnt/",
+        "code": "TNT",
+        "m3u": "https://h5.ustvgo.la/TNT/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Travel Channel ",
+        "url": "https://ustvgo.tv/travel-channel-live-free/",
+        "code": "Travel",
+        "m3u": "https://h5.ustvgo.la/Travel/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "truTV ",
+        "url": "https://ustvgo.tv/trutv/",
+        "code": "TruTV",
+        "m3u": "https://h5.ustvgo.la/TruTV/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "TV Land ",
+        "url": "https://ustvgo.tv/tv-land-live-free/",
+        "code": "TVLand",
+        "m3u": "https://h5.ustvgo.la/TVLand/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "The Weather Channel",
+        "url": "https://ustvgo.tv/the-weather-channel-live-streaming-free/",
+        "code": "TWC",
+        "m3u": "https://h5.ustvgo.la/TWC/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "Univision",
+        "url": "https://ustvgo.tv/univision/",
+        "code": "Univision",
+        "m3u": "https://h5.ustvgo.la/Univision/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "USA Network ",
+        "url": "https://ustvgo.tv/usa-network-live/",
+        "code": "USANetwork",
+        "m3u": "https://h5.ustvgo.la/USANetwork/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "VH1 ",
+        "url": "https://ustvgo.tv/vh1/",
+        "code": "VH1",
+        "m3u": "https://h5.ustvgo.la/VH1/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "We TV ",
+        "url": "https://ustvgo.tv/we-tv/",
+        "code": "WETV",
+        "m3u": "https://h5.ustvgo.la/WETV/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "WWE Network",
+        "url": "https://ustvgo.tv/wwe-network/",
+        "code": "WWE",
+        "m3u": "https://h5.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign="
+    },
+    {
+        "name": "YES Network",
+        "url": "https://ustvgo.tv/yes-network/",
+        "code": "YES",
+        "m3u": "https://h5.ustvgo.la/YES/myStream/playlist.m3u8?wmsAuthSign="
+    }
+]
